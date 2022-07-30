@@ -1,0 +1,399 @@
+{
+    "base_files_url": "",
+    "db_files": [],
+    "db_id": "MiSTer_FGC_Saves",
+    "db_url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/MiSTer_FGC_Saves.json",
+    "default_options": {},
+    "files": {
+                "saves/GBA/Ashita no Joe - Makka ni Moeagare! (Japan).sav": {
+                        "hash": "9953fe92624ae1cff67c0472fb1274b1",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Ashita%20no%20Joe%20-%20Makka%20ni%20Moeagare!%20(Japan).sav",
+						"overwrite": false
+                },                
+				"saves/GBA/Black Belt Challenge (USA).sav": {
+                        "hash": "d609eb172c7914f9d944d8413740c589",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Black%20Belt%20Challenge%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Digimon - Battle Spirit (USA).sav": {
+                        "hash": "2c7c622ebe382cc45edf2d486a7b91dd",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Digimon%20-%20Battle%20Spirit%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It).sav": {
+                        "hash": "a16e2b6f4cf01b56017e5bf64bb70cd7",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Digimon%20-%20Battle%20Spirit%202%20(USA)%20(En,Fr,De,Es,It).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Dragon Ball - Advanced Adventure (USA).sav": {
+                        "hash": "80522f02b12ff410a5bb309062043cd6",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Dragon%20Ball%20-%20Advanced%20Adventure%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Dragon Ball Z - Supersonic Warriors (USA).sav": {
+                        "hash": "6248db7dbe7c35bd51fa21cb4c825961",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Dragon Ball Z - Taiketsu (USA).sav": {
+                        "hash": "70d2189f46e83b1529f50177ccb471d6",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Dragon%20Ball%20Z%20-%20Taiketsu%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Dual Blades (USA).sav": {
+                        "hash": "23c90fd94576136bb87ae6af1307283b",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Dual%20Blades%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Final Fight One (USA).sav": {
+                        "hash": "95240a5f80d7a84c068c5be59e8de6e0",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Final%20Fight%20One%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Groove Adventure Rave - Hikari to Yami no Daikessen (Japan).sav": {
+                        "hash": "35347ec36863d3fff42e91727202c99a",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Groove%20Adventure%20Rave%20-%20Hikari%20to%20Yami%20no%20Daikessen%20(Japan).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Guilty Gear X - Advance Edition (USA).sav": {
+                        "hash": "bffa8a4ccbc51bfca5d639c2c02bb555",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Guilty%20Gear%20X%20-%20Advance%20Edition%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Kidou Senshi Gundam - Seed Destiny (Japan).sav": {
+                        "hash": "f7164dceabca30a05cd221eae10b578f",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Kidou%20Senshi%20Gundam%20-%20Seed%20Destiny%20(Japan).sav",
+						"overwrite": false
+                },
+                "saves/GBA/King of Fighters EX, The - NeoBlood (USA) (Rev 1).sav": {
+                        "hash": "b8cea18fe7bdfe30feb0a57fe0a1e2a7",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/King%20of%20Fighters%20EX,%20The%20-%20NeoBlood%20(USA)%20(Rev%201).sav",
+						"overwrite": false
+                },
+                "saves/GBA/King of Fighters EX2, The - Howling Blood (USA).sav": {
+                        "hash": "c1e42b43659dfcab32d4edba5bd8ba93",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/King%20of%20Fighters%20EX2,%20The%20-%20Howling%20Blood%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Konjiki no Gashbell!! - Unare! Yuujou no Zakeru 2 (Japan).sav": {
+                        "hash": "d052214dde20776a0671af71e8ad5d4b",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Konjiki%20no%20Gashbell!!%20-%20Unare!%20Yuujou%20no%20Zakeru%202%20(Japan).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Konjiki no Gashbell!! Yuujou no Zakeru - Dream Tag Tournament (Japan).sav": {
+                        "hash": "278600ec8d74d17c1f7e30ae2318de02",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Konjiki%20no%20Gashbell!!%20Yuujou%20no%20Zakeru%20-%20Dream%20Tag%20Tournament%20(Japan).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Mario Kart - Super Circuit (USA).sav": {
+                        "hash": "4a0eb2c43147c1785070ba577edaa524",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Mario%20Kart%20-%20Super%20Circuit%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Medabots AX - Metabee Ver. (USA).sav": {
+                        "hash": "9a1d1e15e79eb314b4313a7ea30af986",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Medabots%20AX%20-%20Metabee%20Ver.%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Medabots AX - Rokusho Ver. (USA).sav": {
+                        "hash": "081a00eac1b53773fd5888463271a124",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Medabots%20AX%20-%20Rokusho%20Ver.%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Mortal Kombat - Deadly Alliance (USA) (En,Fr,De,Es,It).sav": {
+                        "hash": "de797620cd688d74ec01cd8bf9f1b715",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Mortal%20Kombat%20-%20Deadly%20Alliance%20(USA)%20(En,Fr,De,Es,It).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Mortal Kombat - Tournament Edition (USA) (En,Fr,De,Es,It).sav": {
+                        "hash": "d3c4c6000ee0b8941165889785c3718b",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Mortal%20Kombat%20-%20Tournament%20Edition%20(USA)%20(En,Fr,De,Es,It).sav",
+						"overwrite": false
+                },
+                "saves/GBA/One Piece - Going Baseball - Kaizoku Yakyuu (Japan).sav": {
+                        "hash": "cb26fe19e50d3f870ddd2754debec256",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/One%20Piece%20-%20Going%20Baseball%20-%20Kaizoku%20Yakyuu%20(Japan).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Rave Master - Special Attack Force! (USA).sav": {
+                        "hash": "6646d1c57df68f53f072224a5e391066",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Rave%20Master%20-%20Special%20Attack%20Force!%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Shrek - Super Slam (USA).sav": {
+                        "hash": "86afcdbc0a33fecf954b4ade5b5c2a56",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Shrek%20-%20Super%20Slam%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Sonic Battle (USA) (En,Ja,Fr,De,Es,It).sav": {
+                        "hash": "c609b6add01b89574e5eed57b2c87d36",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Sonic%20Battle%20(USA)%20(En,Ja,Fr,De,Es,It).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Street Fighter Alpha 3 (USA).sav": {
+                        "hash": "53a3059979bd78c63408ccb0cb16457b",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Street%20Fighter%20Alpha%203%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Super Dodge Ball Advance (USA) (Rev 1).sav": {
+                        "hash": "9555a1c75409cb51329a01f00bacb55b",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Super%20Dodge%20Ball%20Advance%20(USA)%20(Rev%201).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Super Puzzle Fighter II (USA) (Rev 1).sav": {
+                        "hash": "6be71dde14d07274faf5e9f6373d693d",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Super%20Puzzle%20Fighter%20II%20(USA)%20(Rev%201).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Super Street Fighter II Turbo - Revival (USA).sav": {
+                        "hash": "471587fa44a7e54daf46327c13282a6a",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Super%20Street%20Fighter%20II%20Turbo%20-%20Revival%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Tekken Advance (USA).sav": {
+                        "hash": "e3098aafcc9192319a3ea6d396f2eebc",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Tekken%20Advance%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA).sav": {
+                        "hash": "3cbd127d34a6ab7592642af6e90debd4",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Ultimate%20Muscle%20-%20The%20Kinnikuman%20Legacy%20-%20The%20Path%20of%20the%20Superhero%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA/Zatchbell! - Electric Arena (USA).sav": {
+                        "hash": "0b502c42fb3c29f3b077432d54badb08",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA/Zatchbell!%20-%20Electric%20Arena%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Ashita no Joe - Makka ni Moeagare! (Japan).sav": {
+                        "hash": "9953fe92624ae1cff67c0472fb1274b1",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Ashita%20no%20Joe%20-%20Makka%20ni%20Moeagare!%20(Japan).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Black Belt Challenge (USA).sav": {
+                        "hash": "d609eb172c7914f9d944d8413740c589",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Black%20Belt%20Challenge%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Digimon - Battle Spirit (USA).sav": {
+                        "hash": "2c7c622ebe382cc45edf2d486a7b91dd",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Digimon%20-%20Battle%20Spirit%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It).sav": {
+                        "hash": "a16e2b6f4cf01b56017e5bf64bb70cd7",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Digimon%20-%20Battle%20Spirit%202%20(USA)%20(En,Fr,De,Es,It).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Dragon Ball - Advanced Adventure (USA).sav": {
+                        "hash": "80522f02b12ff410a5bb309062043cd6",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Dragon%20Ball%20-%20Advanced%20Adventure%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Dragon Ball Z - Supersonic Warriors (USA).sav": {
+                        "hash": "6248db7dbe7c35bd51fa21cb4c825961",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Dragon Ball Z - Taiketsu (USA).sav": {
+                        "hash": "70d2189f46e83b1529f50177ccb471d6",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Dragon%20Ball%20Z%20-%20Taiketsu%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Dual Blades (USA).sav": {
+                        "hash": "23c90fd94576136bb87ae6af1307283b",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Dual%20Blades%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Final Fight One (USA).sav": {
+                        "hash": "95240a5f80d7a84c068c5be59e8de6e0",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Final%20Fight%20One%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Groove Adventure Rave - Hikari to Yami no Daikessen (Japan).sav": {
+                        "hash": "35347ec36863d3fff42e91727202c99a",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Groove%20Adventure%20Rave%20-%20Hikari%20to%20Yami%20no%20Daikessen%20(Japan).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Guilty Gear X - Advance Edition (USA).sav": {
+                        "hash": "bffa8a4ccbc51bfca5d639c2c02bb555",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Guilty%20Gear%20X%20-%20Advance%20Edition%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Kidou Senshi Gundam - Seed Destiny (Japan).sav": {
+                        "hash": "f7164dceabca30a05cd221eae10b578f",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Kidou%20Senshi%20Gundam%20-%20Seed%20Destiny%20(Japan).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/King of Fighters EX, The - NeoBlood (USA) (Rev 1).sav": {
+                        "hash": "b8cea18fe7bdfe30feb0a57fe0a1e2a7",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/King%20of%20Fighters%20EX,%20The%20-%20NeoBlood%20(USA)%20(Rev%201).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/King of Fighters EX2, The - Howling Blood (USA).sav": {
+                        "hash": "c1e42b43659dfcab32d4edba5bd8ba93",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/King%20of%20Fighters%20EX2,%20The%20-%20Howling%20Blood%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Konjiki no Gashbell!! - Unare! Yuujou no Zakeru 2 (Japan).sav": {
+                        "hash": "d052214dde20776a0671af71e8ad5d4b",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Konjiki%20no%20Gashbell!!%20-%20Unare!%20Yuujou%20no%20Zakeru%202%20(Japan).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Konjiki no Gashbell!! Yuujou no Zakeru - Dream Tag Tournament (Japan).sav": {
+                        "hash": "278600ec8d74d17c1f7e30ae2318de02",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Konjiki%20no%20Gashbell!!%20Yuujou%20no%20Zakeru%20-%20Dream%20Tag%20Tournament%20(Japan).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Mario Kart - Super Circuit (USA).sav": {
+                        "hash": "4a0eb2c43147c1785070ba577edaa524",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Mario%20Kart%20-%20Super%20Circuit%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Medabots AX - Metabee Ver. (USA).sav": {
+                        "hash": "9a1d1e15e79eb314b4313a7ea30af986",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Medabots%20AX%20-%20Metabee%20Ver.%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Medabots AX - Rokusho Ver. (USA).sav": {
+                        "hash": "081a00eac1b53773fd5888463271a124",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Medabots%20AX%20-%20Rokusho%20Ver.%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Mortal Kombat - Deadly Alliance (USA) (En,Fr,De,Es,It).sav": {
+                        "hash": "de797620cd688d74ec01cd8bf9f1b715",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Mortal%20Kombat%20-%20Deadly%20Alliance%20(USA)%20(En,Fr,De,Es,It).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Mortal Kombat - Tournament Edition (USA) (En,Fr,De,Es,It).sav": {
+                        "hash": "d3c4c6000ee0b8941165889785c3718b",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Mortal%20Kombat%20-%20Tournament%20Edition%20(USA)%20(En,Fr,De,Es,It).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/One Piece - Going Baseball - Kaizoku Yakyuu (Japan).sav": {
+                        "hash": "cb26fe19e50d3f870ddd2754debec256",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/One%20Piece%20-%20Going%20Baseball%20-%20Kaizoku%20Yakyuu%20(Japan).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Rave Master - Special Attack Force! (USA).sav": {
+                        "hash": "6646d1c57df68f53f072224a5e391066",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Rave%20Master%20-%20Special%20Attack%20Force!%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Shrek - Super Slam (USA).sav": {
+                        "hash": "86afcdbc0a33fecf954b4ade5b5c2a56",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Shrek%20-%20Super%20Slam%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Sonic Battle (USA) (En,Ja,Fr,De,Es,It).sav": {
+                        "hash": "c609b6add01b89574e5eed57b2c87d36",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Sonic%20Battle%20(USA)%20(En,Ja,Fr,De,Es,It).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Street Fighter Alpha 3 (USA).sav": {
+                        "hash": "53a3059979bd78c63408ccb0cb16457b",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Street%20Fighter%20Alpha%203%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Super Dodge Ball Advance (USA) (Rev 1).sav": {
+                        "hash": "9555a1c75409cb51329a01f00bacb55b",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Super%20Dodge%20Ball%20Advance%20(USA)%20(Rev%201).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Super Puzzle Fighter II (USA) (Rev 1).sav": {
+                        "hash": "6be71dde14d07274faf5e9f6373d693d",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Super%20Puzzle%20Fighter%20II%20(USA)%20(Rev%201).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Super Street Fighter II Turbo - Revival (USA).sav": {
+                        "hash": "471587fa44a7e54daf46327c13282a6a",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Super%20Street%20Fighter%20II%20Turbo%20-%20Revival%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Tekken Advance (USA).sav": {
+                        "hash": "e3098aafcc9192319a3ea6d396f2eebc",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Tekken%20Advance%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA).sav": {
+                        "hash": "3cbd127d34a6ab7592642af6e90debd4",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Ultimate%20Muscle%20-%20The%20Kinnikuman%20Legacy%20-%20The%20Path%20of%20the%20Superhero%20(USA).sav",
+						"overwrite": false
+                },
+                "saves/GBA2P/Zatchbell! - Electric Arena (USA).sav": {
+                        "hash": "0b502c42fb3c29f3b077432d54badb08",
+                        "size": 262144,
+                        "url": "https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/saves/GBA2P/Zatchbell!%20-%20Electric%20Arena%20(USA).sav",
+						"overwrite": false
+                }
+	},
+	"folders": {
+        "saves/GBA2P/": {},
+		"saves/GBA/":{},
+    },
+    "timestamp": 1659182311,
+    "zips": {}
+}
