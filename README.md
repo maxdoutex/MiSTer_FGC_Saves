@@ -17,7 +17,7 @@ Please add the below line of code to your downloader.ini file if you would like 
 **If a save is not working ensure that the Game Name is matching the Save. I have used names provided by the HTGDB.**
 
 ```
-[MiSTer_FGC_Saves]
+[mister_fgc_saves]
 db_url = https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/MiSTer_FGC_Saves.json
 ```
 
