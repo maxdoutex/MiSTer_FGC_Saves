@@ -18,7 +18,7 @@ Please add the below line of code to your downloader.ini file if you would like 
 
 ```
 [MiSTer_FGC_Saves]
-db_url = https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Pack/main/MiSTer_FGC_Saves.json
+db_url = https://raw.githubusercontent.com/maxdoutex/MiSTer_FGC_Saves/main/MiSTer_FGC_Saves.json
 ```
 
 ### Thanks
