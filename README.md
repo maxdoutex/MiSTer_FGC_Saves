@@ -37,5 +37,5 @@ If for any reason you would like to have your save removed from the Pack please 
 
 If you have any questions or contributions to make to the pack please contact me on twitter.
 
-This can include
-- If you would like your Multiplayer GBA save being added to the set I will look to adding it. 
+### Known Issue
+Taiketsu's 2P Save does not work. It should work on single play GBA. If anyone has a working Taiketsu 2P Save it would be appreciated.
